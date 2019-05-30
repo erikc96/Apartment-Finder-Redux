@@ -1,0 +1,724 @@
+43206
+1500
+50
+120
+Listing found:
+   link: https://zanesville.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6850635702.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/new-straitsville-housing-for-elderly/6850635825.html
+   price: 1
+Listing found:
+   link: https://athensohio.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6850635960.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-we-will-buy-any-house-in-ohio/6855807042.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6866848478.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6867600099.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6867674364.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6867832123.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6867955306.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6868475990.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6868588357.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6868780033.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6869417133.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6869573205.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6869946362.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6870331776.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/tired-of-dealing-with-tenants-and/6871024146.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/tired-of-dealing-with-tenants-and/6872316535.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6872361590.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6872906817.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6873089593.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6873597029.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/reynoldsburg-deals-deals-deals/6873862260.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6874350758.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/dublin-professionally-managed-pools/6874488938.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6874655506.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/westerville-vaporize-the-eviction/6875096438.html
+   price: 1
+Listing found:
+   link: https://athensohio.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6875177336.html
+   price: 1
+Listing found:
+   link: https://zanesville.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6875177666.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/new-straitsville-housing-for-elderly/6875178026.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/dublin-lease-today-garage-space/6876145610.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6878105651.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6878105663.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6878260027.html
+   price: 1
+Listing found:
+   link: https://zanesville.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6879645834.html
+   price: 1
+Listing found:
+   link: https://athensohio.craigslist.org/apa/d/housing-for-elderly-62-older-disabled/6879646181.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/new-straitsville-housing-for-elderly/6879646506.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6879705559.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6879705569.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6880060658.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6880060686.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6880447988.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6880448015.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-we-will-buy-any-house-in-ohio/6880711749.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6882552299.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/dublin-seal-coating-paving-free/6882558954.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/hilliard-seal-coating-paving-free/6882571715.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6882635119.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6882797817.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6882898748.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6882898765.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6883339108.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6883476219.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6884247874.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6884247892.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6884537064.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6884537075.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6885019897.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6885099854.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6885939666.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6885939676.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/dublin-lease-today-garage-space/6885943407.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/grove-city-eviction-delay-service-call/6886073639.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/grove-city-eviction-delay-service-call/6886073708.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/grove-city-eviction-delay-service-call/6886073718.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/tired-of-dealing-with-tenants-and/6887098930.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-isnt-time-to-live-in-luxury/6887172952.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6887703240.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-brand-new-suites-in/6887877326.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6887970865.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6887970946.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6888092600.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-deal-apply-today-to/6888579668.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-deal-apply-today-to/6888718184.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-deal-apply-today-to/6888934451.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-deal-apply-today-to/6889002553.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-deal-apply-today-to/6890379354.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6891054024.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6891147064.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/westerville-stylish-features-pet/6892603056.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-in-foreclosure-have-contract/6892639172.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6893162346.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6893386202.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/reynoldsburg-last-chance/6894141292.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6894191029.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6894758828.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-place-to-call-home-499-move-in/6894924580.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-incredible-apts-in-downtown/6895726469.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/hilliard-looking-for-roommate/6895805764.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-lease-today-garage-space/6896533247.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-new-everything-must-see-graham/6897406074.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-live-well-live-in-luxury-at/6897861887.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-bring-your-furry-friend-to-our/6897940212.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-voted-1-two-bedroom-in/6899104775.html
+   price: 1
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-senior-housing-service/6872333765.html
+   price: 25
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-senior-housing-service/6874750819.html
+   price: 25
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-senior-housing-service/6888531072.html
+   price: 25
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-we-have-storage-come-rent-one/6887372986.html
+   price: 40
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-we-have-storage-come-rent-one/6888227484.html
+   price: 40
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-we-have-storage-come-rent-one/6889427905.html
+   price: 40
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-omg-crazy-saving-unlimited/6896747579.html
+   price: 43
+Listing found:
+   link: https://dayton.craigslist.org/apa/d/charming-senior-community-with-one/6899915898.html
+   price: 50
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/westerville-move-in-specials-brand-new/6853897316.html
+   price: 75
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/westerville-services-for-brand-new-cpn/6853897339.html
+   price: 75
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-garage-for-rent-7500/6890499277.html
+   price: 75
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/galloway-professional-movers/6876040038.html
+   price: 100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-professional-movers/6880374818.html
+   price: 100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-movers/6883667679.html
+   price: 100
+Listing found:
+   link: https://mansfield.craigslist.org/apa/d/mount-liberty-hiawatha-village/6893027236.html
+   price: 100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/newark-room-for-rent-newark-150/6885263859.html
+   price: 150
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/mount-sterling-meadowview-village/6872045417.html
+   price: 200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fully-furnished-studio/6896970499.html
+   price: 200
+Listing found:
+   link: https://chillicothe.craigslist.org/apa/d/chillicothe-have-you-been-evicted-and/6897973805.html
+   price: 200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/reynoldsburg-so-much-to-offer-without/6886653058.html
+   price: 210
+Listing found:
+   link: https://cincinnati.craigslist.org/apa/d/west-jefferson-1-bedroom-fully/6894586656.html
+   price: 250
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/furnished-studios-starting-weekly/6853497390.html
+   price: 259
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-intown-suites-east-studios/6853506505.html
+   price: 259
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/fully-furnished-apartments-for-short/6885632252.html
+   price: 275
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/fully-furnished-apartments-for-short/6894656432.html
+   price: 275
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fully-furnished-one-bedroom/6896622042.html
+   price: 275
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-rm-4-rent/6884768584.html
+   price: 400
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-two-bedroom-townhouse/6885892310.html
+   price: 580
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-big-2bd-1-2-double-new-painted/6877908253.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-basements-with-d-hook/6884119518.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-basements-with-d-hook/6884120177.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-basements-with-d-hook/6884120565.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6884132787.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6884905225.html
+   price: 600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-south-side-nice-1-bedroom/6888690594.html
+   price: 625
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6845031531.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments-aug-2019/6852340261.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6853061203.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6857772829.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgatemove-aug-2019/6857774616.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6857783834.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-were-running-out-of-apartments/6867998514.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-childrens-area/6887916998.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments2-bed/6890100781.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-move-in-aug-2019-fairgate-apts/6893176781.html
+   price: 650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments-aug-2019/6857777375.html
+   price: 680
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/warning-this-ad-is-scam/6894143882.html
+   price: 695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-1-bedroom-close-to-german/6894643636.html
+   price: 695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-convenient-location-with-lots/6878424183.html
+   price: 700
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-warning-this-ad-is-scam/6894154990.html
+   price: 700
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-past-rental-or-and-credit-woes/6882791212.html
+   price: 704
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-merion-village-german-village/6881488188.html
+   price: 720
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-1173-champion-bright-and/6895559766.html
+   price: 725
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-fairgate-apartments-aug-2019/6884119924.html
+   price: 730
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-enjoy-summer-in-your-new-home/6851783473.html
+   price: 739
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-come-check-out-this-charming/6896590250.html
+   price: 745
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-bedroom-house-for-rent/6870671816.html
+   price: 750
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-duplex-for-rent/6872282740.html
+   price: 750
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-affordable-2br-townhome-in/6867999750.html
+   price: 759
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-this-house-is-very-cozy-its/6879395584.html
+   price: 775
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-duplex-in-great/6879388128.html
+   price: 795
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-duplex-in-great/6880937644.html
+   price: 795
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-near-merion-village-2bedroom/6884294173.html
+   price: 795
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-duplex-in-great/6885271268.html
+   price: 795
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-duplex-in-great/6890771822.html
+   price: 795
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-2-br-1-bath-with-half-finish/6873029990.html
+   price: 799
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-nice-2-bedroom-1-bathroom/6889620629.html
+   price: 799
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-single-family-2-3-bdrm-house/6881024886.html
+   price: 800
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-gorgeous-house-for-rent/6896703432.html
+   price: 800
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-single-family-home-for-rent/6872805809.html
+   price: 825
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-3-bed-1-bathrent-to-own-lease/6894607857.html
+   price: 849
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-2-bedroom-house-for-rent/6890677039.html
+   price: 850
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-need-more-space-wait-no-more/6867998267.html
+   price: 869
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-south-3bd-mill-fixer-upper-for/6869240610.html
+   price: 890
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-gorgeous-1-br/6873759879.html
+   price: 899
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-loft-for-rent/6899252742.html
+   price: 900
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-1115-ohio-ave/6899825868.html
+   price: 945
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-all-utilities-included-cozy/6892931577.html
+   price: 950
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-4br-unit-with-easy-access-to/6873688672.html
+   price: 951
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-excellent-location-2-bed-walk/6895786494.html
+   price: 975
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-open-house-on-wednesday-april/6869125999.html
+   price: 1000
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-nice1000-1br-open-house-130/6869126102.html
+   price: 1000
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-great-3-bedroom-duplex-house/6893662623.html
+   price: 1000
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-warning-this-ad-is-scam/6894164061.html
+   price: 1000
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-merion-village-condo/6892702916.html
+   price: 1050
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-merion-village-condo-for-lease/6894843437.html
+   price: 1050
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-renovated-house-for-rent-in/6874869600.html
+   price: 1090
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-sycamore/6866996587.html
+   price: 1095
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-opportunity/6856633227.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/close-to-nationwide-childrens-hospital/6858243827.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-newly-renovated-southside/6874747896.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-c-washer-dryer/6878913190.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-reinhard-ave-3-br-apartment/6879501138.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/close-to-nationwide-childrens-hospital/6884530183.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/close-to-nationwide-childrens-hospital/6886662895.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-amazing-opportunity/6886682635.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-c-washer-dryer/6896211370.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-c-washer-dryer/6897670680.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-completely-remodled-2-bredroom/6898727144.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-one-bedroom/6899925844.html
+   price: 1100
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-southern-orchards-rentals/6867152410.html
+   price: 1150
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-2-bedroom-house/6889332424.html
+   price: 1150
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-merion-village-beautifully/6898577256.html
+   price: 1150
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/westerville-german-village-duplex/6876873095.html
+   price: 1200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-nice-4-beds-1-bath/6884825673.html
+   price: 1200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-merion-village-rental/6896203498.html
+   price: 1200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-duplex-2/6896984342.html
+   price: 1200
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-1-br-loft-apartment-in-german/6890589897.html
+   price: 1250
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-newly-renovated-townhome/6894646307.html
+   price: 1250
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-single-family-in-columbus/6896485771.html
+   price: 1250
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-single-family-in-columbus/6899876761.html
+   price: 1250
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-5-bedroom-house-for-rent/6890676862.html
+   price: 1300
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-1-2-of-double-for-rent/6900595067.html
+   price: 1300
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-stylish-brick-german-village/6891491267.html
+   price: 1320
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-charming-two-bedroom-flat/6860977525.html
+   price: 1350
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-beautiful-unique-3bd-2ba-near/6896223263.html
+   price: 1350
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-near-german-village-2-bedroom/6884302219.html
+   price: 1395
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-965-heyl-ave/6887689409.html
+   price: 1395
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-965-heyl-ave/6896279801.html
+   price: 1395
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-965-heyl-ave/6899785262.html
+   price: 1395
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-90-thurman-ave/6900170867.html
+   price: 1395
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-3-bedroom-german-village/6888995452.html
+   price: 1400
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-single-bedroom-on-schiller-park/6861572887.html
+   price: 1450
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/schiller-park-german-village/6897524683.html
+   price: 1450
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-2-br-german-village-schumacher/6896421669.html
+   price: 1500
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-2-bedoom-with/6862497335.html
+   price: 1595
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-updated-german-village/6900198820.html
+   price: 1595
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-central-german-village-2/6889303461.html
+   price: 1600
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-865-ohio-ave/6899800922.html
+   price: 1625
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-children-hospital-area/6875942239.html
+   price: 1650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-area-townhouse/6882578672.html
+   price: 1650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-865-ohio-ave/6887699455.html
+   price: 1650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-area-1-2-double/6892692590.html
+   price: 1650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-classic-german-village-home/6893697372.html
+   price: 1650
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-976-carpenter-st/6899793230.html
+   price: 1675
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-nd-st/6899817641.html
+   price: 1675
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-4br-ft2-4-bedroom-1-bath-2/6885893305.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-976-carpenter-st/6887692109.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-nd-st/6887702299.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-brewery/6890335413.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-976-carpenter-st/6896258670.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-downtown-brewery-district/6898632740.html
+   price: 1695
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-house-for-rent/6894995564.html
+   price: 1700
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-3br-ft2-3-bedroom-15-bath-2/6885898925.html
+   price: 1745
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-3-bedroom-15-bath-2-story-home/6885904527.html
+   price: 1745
+Listing found:
+   link: https://columbus.craigslist.org/apa/d/columbus-german-village-area-townhouse/6878921095.html
+   price: 1750
