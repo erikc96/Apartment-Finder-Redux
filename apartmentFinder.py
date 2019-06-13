@@ -51,11 +51,12 @@ for result in results:
         "url" : result["url"]
     }
 
-    if (CENTER_ONE[0] != -1):
-        apt["center_one_distance"] = mpu.haversine_distance(result["geotag"], CENTER_ONE)
+    if (apt["geotag"]):
+      if (CENTER_ONE[0] != -1):
+          apt["center_one_distance"] = mpu.haversine_distance(result["geotag"], CENTER_ONE)
 
-    if (CENTER_TWO[0] != -1):
-        apt["center_two_distance"] = mpu.haversine_distance(result["geotag"], CENTER_TWO)
+      if (CENTER_TWO[0] != -1):
+          apt["center_two_distance"] = mpu.haversine_distance(result["geotag"], CENTER_TWO)
 
     apts.append(apt)
     
